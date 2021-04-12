@@ -176,7 +176,7 @@
 							"      pm.expect(haveProperty.authors).to.be.an('array');\r",
 							"  });\r",
 							"//------------------check if the books is co-written-----------------------------  \r",
-							"  if(haveProperty.authorss .length > 1){\r",
+							"  if(haveProperty.authors.length > 1){\r",
 							"     pm.test('The book is co-written by ' + haveProperty.authors, function(){});\r",
 							"    \r",
 							"}else{\r",
@@ -311,7 +311,7 @@
 	],
 	"variable": [
 		{
-			"id": "657df137-3025-4d58-9a3c-c861636f7198",
+			"id": "9b07e660-9f6c-4845-bd83-559c359fa92b",
 			"key": "url",
 			"value": "https://www.googleapis.com/books/v1/volumes"
 		}
