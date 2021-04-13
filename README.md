@@ -6,3 +6,4 @@ travis ci
 the content of this repository:
 a tests folder which contains the postman collection, and a dataset file.
 and a .travis.yml configuration file
+and faile test scenarios (scearion;feature)
